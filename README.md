@@ -14,4 +14,9 @@ RESTful Architecture
 * Update Post By ID  => PUT /posts/:id
 * Destory Post BY ID =>DELETE /posts/:id
 
+## Checkout the AJAX Blog
+http://the-ajax-blog.surge.sh/
+
+Make sure to click on the blog roll on the sidebar to view and edit old posts.
+
 <kbd>![alt text](img/ajax-blog.png "AJAX Blog")</kbd>
