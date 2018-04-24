@@ -1,5 +1,5 @@
 # Frontend or AJAX Blog
-Separate the concerns of a client-side for Blog Application.
+Client-side for Blog Application.
 
 * Uses a CSS Framework
 * Separates functions into multiple files
