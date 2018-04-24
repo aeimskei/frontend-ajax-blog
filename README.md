@@ -14,4 +14,4 @@ RESTful Architecture
 * Update Post By ID  => PUT /posts/:id
 * Destory Post BY ID =>DELETE /posts/:id
 
-![alt text](img/ajax-blog.png "AJAX Blog")
+<kbd>![alt text](img/ajax-blog.png "AJAX Blog")</kbd>
